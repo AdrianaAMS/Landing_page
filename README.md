@@ -10,7 +10,9 @@ Página de captura de interessados no tema que será abordado no Workshop
 - ``HTML5``
 - ``CSS3``
 
-# 📁 Acesso ao projeto
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AdrianaAMS/Landing_page/master/src).
+
 
 ** Como acessar ou baixar o código fonte do projeto**
 
