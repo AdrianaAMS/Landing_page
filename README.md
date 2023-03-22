@@ -11,4 +11,4 @@ Página de captura de interessados no tema que será abordado no Workshop
 
 # 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+**em Breve**
