@@ -2,7 +2,6 @@
 Página de captura de interessados no tema que será abordado no Workshop 
 ![Screen Shot 2023-03-23 at 18 03 42](https://user-images.githubusercontent.com/61362770/227360948-a78ccb5e-8bcf-4496-95e4-e753ca154aca.png)
 
-![Workshop](https://user-images.githubusercontent.com/61362770/226995935-10b3169a-dbe0-4730-82f5-7af3543acc18.png)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
